@@ -1,19 +1,29 @@
 # Calculadora IMC
-Desc
+Minha primeira aplicação feita em Kotlin no Android Studio. Projeto da Comunidade DevSpace, no qual fiz um app para um cálculo do IMC e a classificação do seu índice.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-Screenshots
+<img src="https://github.com/Dax-Rocha/calculadoraimc/assets/174387939/b7eaeadc-5866-482c-a573-f415feeddfd0" width=260/> <img src="https://github.com/Dax-Rocha/calculadoraimc/assets/174387939/262a2dfc-f99d-46b1-acb7-ea1898b4b866" width=260/>
 
 ## Tecnologias
 Techs
-
+- Activity
+- Intent
+- Snackbar
+- ViewGroups
+ - LinearLayout
+ - ConstraintLayot
+- Views
+  - ImageView
+  - TextView
+  - EditText
+  - Button
 
 ## License
 ```
 The MIT License (MIT)
 
-Copyright (c) 2023 Roque Buarque Junior
+Copyright (c) 2024 Dax da Silva Rocha
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
